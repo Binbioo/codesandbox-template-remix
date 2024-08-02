@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "python-telegram-bot": true
+    },
+    "search.useGlobalIgnoreFiles": true,
+    "search.useIgnoreFiles": true
+}
